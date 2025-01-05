@@ -14,7 +14,7 @@ The problem can be found at the following link: [Problem Link](https://www.geeks
 
 ## 💡 **Problem Description:**
 
-You are given a rectangular matrix `mat[][]` of size `n x m`. Your task is to return an array while traversing the matrix in a spiral form.
+You are given a rectangular matrix `mat[][]` of size `n x m`. Your task is to return an array while traversing matrix in a spiral form.
 
 ## 🔍 **Example Walkthrough:**
 
